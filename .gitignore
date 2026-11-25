@@ -1,0 +1,5 @@
+bin/
+ev/
+.DS_Store
+~$*
+src/
