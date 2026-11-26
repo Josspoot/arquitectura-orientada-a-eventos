@@ -1,0 +1,3 @@
+#!/bin/zsh
+# Corre eda en un contenedor que comparte la red de eda-redis (Redis en localhost:6379).
+exec docker run --rm -it --name eda-$(basename $(tty)) --network container:eda-redis -v ${0:A:h}/bin:/eda:ro alpine:3.20 /eda/eda "$@"

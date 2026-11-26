@@ -2,15 +2,25 @@
 
 Sistemas backend · Equipo 4 · 25 de noviembre de 2026
 
-**Equipo 4:** Josue Enmanuel Poot Mateo, Juan Jose Zapata Buenfil, Sergio Orion Huerta Martinez, Diego Ramirez Magaña y Angel Lugo.
+**Asignatura:** Fundamentos de Arquitectura de Software y Desarrollo Backend
+**Docente:** Gimer Amilcar Cervera Evia
+
+| Integrante | Matrícula |
+|---|---|
+| Angel Abraham Lugo Saenz | SW2409052 |
+| Juan Jose Zapata Buenfil | SW2509044 |
+| Josue Enmanuel Poot Mateo | SW2509033 |
+| Sergio Orion Huerta Martinez | SW2509012 |
+| Diego Ramirez Magaña | SW2509051 |
 
 ## Entregables
 
 | Archivo | Qué es |
 |---|---|
 | `equipo4_eda_laboratorio.docx` | Respuestas a las 5 preguntas de la entrega, con evidencia de la terminal |
-| `evidencia/` | Salida completa de los ejercicios 1 a 4, y del 3 con la figura corregida (`ej3b.txt`) |
-| `laboratorio/` | Scripts con los que se corrieron los ejercicios |
+| `evidencia/capturas/` | Capturas de Terminal de cada ejercicio (las mismas del Word) |
+| `evidencia/*.txt` | Salida completa de los ejercicios 1 a 4, y del 3 con la figura corregida (`ej3b.txt`) |
+| `laboratorio/` | Scripts con los que se corrieron los ejercicios (`lab.sh`, `lab3b.sh`) y se tomaron las capturas (`shots.sh`, `compose.py`, `eda`) |
 
 ## Cómo reproducirlo
 
